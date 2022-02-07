@@ -40,6 +40,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&layout=compact" /> <img src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true" />
 
 ✨ *I'd like to give a special token of appreciation to:* ✨
-* ***[Eldon](https://github.com/eldonwilliams)** | **[Haany](https://github.com/MarikIshtar007/MarikIshtar007)** - Inspiration for my profile.*
+* ***[Eldon](https://github.com/eldonwilliams/eldonwilliams)** | **[Haany](https://github.com/MarikIshtar007/MarikIshtar007)** - Inspiration for my profile.*
 * ***[Free Icons](https://www.freeiconspng.com/)** - Icons for each social media.*
 * ***[Iconscout](https://iconscout.com/)** - Icons for each programming language.*
