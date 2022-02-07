@@ -4,7 +4,7 @@
 * [Twitter](https://twitter.com/RobloxianDemo) <img src = "https://www.freeiconspng.com/uploads/logo-twitter-icon-symbol-0.png" width = "30"/>
 * [YouTube](https://www.youtube.com/c/Demoman) <img src = "https://www.freeiconspng.com/uploads/youtube-logo-21.png" width = "30"/>
 
-## Programming Languages 👨‍💻
+## Favorite Programming Languages 👨‍💻
 * [C](https://devdocs.io/c) <img src = "https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width = "25"/>
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide) <img src = "https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width = "25"/>
 * [C++](https://devdocs.io/cpp) <img src = "https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png" width = "25"/>
