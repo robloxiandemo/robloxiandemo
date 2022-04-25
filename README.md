@@ -32,7 +32,6 @@
 ## Current Projects 🕵️
 * [Founder](https://twitter.com/Facilitative_) <img src = "https://tr.rbxcdn.com/1dd88c0308dcb21b089db6e2b61646d2/150/150/Image/Png" width = "45"/>
 * [Lead Programmer](https://www.roblox.com/groups/5376709/Incentive-Team) <img src = "https://tr.rbxcdn.com/cf75f95d92a259b70af9facf4e9b0b3f/150/150/Image/Png" width = "45"/>
-* [Lead Programmer](https://www.roblox.com/groups/13208645/Misfit-Pixels) <img src = "https://tr.rbxcdn.com/28feda7a45e66cd8cab00498c5b7791b/150/150/Image/Png" width = "45"/>
 
 ## User Statistics 📊
 <img src = "https://komarev.com/ghpvc/?username=RobloxianDemo" alt = "RobloxianDemo" />
