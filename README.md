@@ -1,4 +1,4 @@
-## 'Ello there! I'm [Robloxian Demo](https://www.youtube.com/c/Demoman/)! <img src = "https://media3.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=790b7611pqudfl3ym6b1njv90ivuhdblkdn9ex7jj8gkj1rf&rid=giphy.gif&ct=s" width = "45px">
+## 'Ello there! I'm [Robloxian Demo](https://www.youtube.com/c/Demoman?sub_confirmation=1)! <img src = "https://media3.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=790b7611pqudfl3ym6b1njv90ivuhdblkdn9ex7jj8gkj1rf&rid=giphy.gif&ct=s" width = "15px">
 
 ## Social Medias 🐦
 [![Twitter](https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo)
