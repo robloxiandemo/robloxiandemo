@@ -4,9 +4,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpS7v1M4bRKkq-hMysfOKw?label=Subscribe%20%40Demo&logo=YouTube&logoColor=%23FF0000&style=for-the-badge)](https://www.youtube.com/c/Demoman?sub_confirmation=1)
 
-https://www.youtube.com/c/Demoman
-* [YouTube](https://www.youtube.com/c/Demoman) <img src = "https://www.freeiconspng.com/uploads/youtube-logo-21.png" width = "30"/>
-
 ## Favorite Programming Languages 👨‍💻
 * [C](https://devdocs.io/c) <img src = "https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width = "25"/>
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide) <img src = "https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width = "25"/>
