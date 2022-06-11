@@ -3,6 +3,7 @@
 ## Social Medias 🐦
 [![Twitter](https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpS7v1M4bRKkq-hMysfOKw?label=Subscribe%20%40Demo&logo=YouTube&logoColor=%23FF0000&style=for-the-badge)](https://www.youtube.com/c/Demoman?sub_confirmation=1)
+[![Discord](https://img.shields.io/discord/569871687076544545?color=%23738ADB&label=Join%20%40Facilitative&logo=Discord&logoColor=%23738ADB&style=for-the-badge)](https://discord.gg/zCQTzAr)
 
 ## Favorite Programming Languages 👨‍💻
 * [C](https://devdocs.io/c) <img src = "https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width = "25"/>
