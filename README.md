@@ -1,7 +1,10 @@
 ## 'Ello there! I'm [Robloxian Demo](https://www.youtube.com/c/Demoman/)! <img src = "https://media3.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=790b7611pqudfl3ym6b1njv90ivuhdblkdn9ex7jj8gkj1rf&rid=giphy.gif&ct=s" width = "45px">
 
 ## Social Medias 🐦
-* [Twitter](https://twitter.com/RobloxianDemo) <img src = "https://www.freeiconspng.com/uploads/logo-twitter-icon-symbol-0.png" width = "30"/>
+[![Twitter](https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpS7v1M4bRKkq-hMysfOKw?label=Subscribe%20%40Demo&logo=YouTube&logoColor=%23FF0000&style=for-the-badge)](https://www.youtube.com/c/Demoman?sub_confirmation=1)
+
+https://www.youtube.com/c/Demoman
 * [YouTube](https://www.youtube.com/c/Demoman) <img src = "https://www.freeiconspng.com/uploads/youtube-logo-21.png" width = "30"/>
 
 ## Favorite Programming Languages 👨‍💻
@@ -36,7 +39,6 @@
 * [Lead Programmer](https://www.roblox.com/groups/5504197/CL-Game-Studio) <img src = "https://tr.rbxcdn.com/6dbe6260cd90ef0f7697d5889fb66319/150/150/Image/Png" width = "45"/>
 * [Programmer](https://www.roblox.com/groups/3991320/GamesReborn) <img src = "https://tr.rbxcdn.com/677bf084be66c01b58e122539dca244e/150/150/Image/Png" width = "45"/>
 * [Lead Programmer](https://www.roblox.com/groups/10707656/GamesReborn-Super) <img src = "https://tr.rbxcdn.com/d50a6405dff004b110893587b6aa3ec5/150/150/Image/Png" width = "45"/>
-* [Lead Programmer](https://www.roblox.com/groups/140110/New-World) <img src = "https://tr.rbxcdn.com/483d2411d0db6d222a2ef98ac0b336a4/150/150/Image/Png" width = "45"/>
 
 ## User Statistics 📊
 <img src = "https://komarev.com/ghpvc/?username=RobloxianDemo" alt = "RobloxianDemo" />
