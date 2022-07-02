@@ -35,8 +35,8 @@
 * [Lead Programmer](https://www.roblox.com/groups/5211677/Capital-Productions) <img src = "https://tr.rbxcdn.com/6489c7cb24febcf9de5074841a09cd79/150/150/Image/Png" width = "45"/>
 * [Lead Programmer](https://www.roblox.com/groups/7685450/Marvelous-Studio) <img src = "https://tr.rbxcdn.com/63ef3d08c7a6172a941104461a38d46d/150/150/Image/Png" width = "45"/>
 * [Lead Programmer](https://www.roblox.com/groups/5504197/CL-Game-Studio) <img src = "https://tr.rbxcdn.com/6dbe6260cd90ef0f7697d5889fb66319/150/150/Image/Png" width = "45"/>
-* [Programmer](https://www.roblox.com/groups/3991320/GamesReborn) <img src = "https://tr.rbxcdn.com/677bf084be66c01b58e122539dca244e/150/150/Image/Png" width = "45"/>
-* [Lead Programmer](https://www.roblox.com/groups/10707656/GamesReborn-Super) <img src = "https://tr.rbxcdn.com/d50a6405dff004b110893587b6aa3ec5/150/150/Image/Png" width = "45"/>
+* [Programmer](https://www.roblox.com/groups/7165738/Play-Studios) <img src = "https://tr.rbxcdn.com/5e72113f53720f951d1660a7da4785ca/150/150/Image/Png" width = "45"/>
+* [Lead Programmer](https://www.roblox.com/groups/15202675/Play-Development-4) <img src = "https://tr.rbxcdn.com/5e72113f53720f951d1660a7da4785ca/150/150/Image/Png" width = "45"/>
 
 ## User Statistics 📊
 <img src = "https://komarev.com/ghpvc/?username=RobloxianDemo" alt = "RobloxianDemo" />
