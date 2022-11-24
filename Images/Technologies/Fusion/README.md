@@ -1,1 +1,1 @@
-![Official Website](https://elttob.uk/Fusion/)
+[Official Website](https://elttob.uk/Fusion/)

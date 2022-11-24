@@ -1,1 +1,1 @@
-![Official Website](https://www.usa.gov/)
+[Official Website](https://www.usa.gov/)

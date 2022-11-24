@@ -1,1 +1,1 @@
-![Official Website](https://sleitnick.github.io/RbxUtil/)
+[Official Website](https://sleitnick.github.io/RbxUtil/)

@@ -1,1 +1,1 @@
-![Official Website](https://devdocs.io/cpp/)
+[Official Website](https://devdocs.io/cpp/)

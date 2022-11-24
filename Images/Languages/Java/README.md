@@ -1,1 +1,1 @@
-![Official Website](https://docs.oracle.com/en/java/)
+[Official Website](https://docs.oracle.com/en/java/)

@@ -1,1 +1,1 @@
-![Official Website](https://sleitnick.github.io/Knit/)
+[Official Website](https://sleitnick.github.io/Knit/)

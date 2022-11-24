@@ -1,1 +1,1 @@
-![Official Website](https://www.python.org/doc/)
+[Official Website](https://www.python.org/doc/)

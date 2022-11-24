@@ -1,1 +1,1 @@
-![Official Website](https://www.typescriptlang.org/docs/)
+[Official Website](https://www.typescriptlang.org/docs/)

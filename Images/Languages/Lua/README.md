@@ -1,1 +1,1 @@
-![Official Website](https://www.lua.org)
+[Official Website](https://www.lua.org)

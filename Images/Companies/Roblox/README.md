@@ -1,1 +1,1 @@
-![Official Website](https://roblox.com/)
+[Official Website](https://roblox.com/)

@@ -1,1 +1,1 @@
-![Official Website](https://discord.com/)
+[Official Website](https://discord.com/)

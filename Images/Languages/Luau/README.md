@@ -1,1 +1,1 @@
-![Official Website](https://luau-lang.org/)
+[Official Website](https://luau-lang.org/)

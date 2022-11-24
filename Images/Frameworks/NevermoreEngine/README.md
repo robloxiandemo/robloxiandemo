@@ -1,1 +1,1 @@
-![Official Website](https://quenty.github.io/NevermoreEngine/)
+[Official Website](https://quenty.github.io/NevermoreEngine/)

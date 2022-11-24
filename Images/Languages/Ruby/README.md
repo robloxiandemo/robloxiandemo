@@ -1,1 +1,1 @@
-![Official Website](https://ruby-doc.org/)
+[Official Website](https://ruby-doc.org/)

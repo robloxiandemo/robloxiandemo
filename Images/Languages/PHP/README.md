@@ -1,1 +1,1 @@
-![Official Website](https://www.php.net/)
+[Official Website](https://www.php.net/)

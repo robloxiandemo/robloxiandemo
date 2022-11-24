@@ -1,1 +1,1 @@
-![Official Website](https://devdocs.io/css/)
+[Official Website](https://devdocs.io/css/)
