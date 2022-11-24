@@ -4,42 +4,27 @@
   <a href = "https://git.io/typing-svg"> <img src = "https://readme-typing-svg.herokuapp.com/?lines=%27Ello,+there!+%F0%9F%91%8B;Robloxian+Demo+here!;Pleasure+to+meet+you!&right=true&size=35"> </a> </h1>
 
 <h5 align = "center">
-  <code> <a href = "https://github.com/RobloxianDemo" title = "GitHub Profile"> <img width = "25" src = "Images/Companies/GitHub/Image.svg"> GitHub </a> </code>
+  <code> <a href = "https://github.com/RobloxianDemo" title = "GitHub Profile"> <img width = "20" src = "Images/Companies/GitHub/Image.svg"> GitHub </a> </code>
   <code> <a href = "https://www.roblox.com/users/289025524/profile" title = "Roblox Profile"> <img width = "25" src = "Images/Companies/Roblox/Image.svg"> Roblox </a> </code>
-  <code> <a href = "https://discord.gg/zCQTzAr" title = "Discord Server"> <img width = "25" src = "Images/Companies/Discord/Image.svg"> Discord </a> </code>
-  <code> <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo" title = "Twitter Profile"> <img width = "25" src = "Images/Companies/Twitter/Image.svg"> Twitter </a> </code>
-  <code> <a href = "https://www.youtube.com/c/Demolitionist?sub_confirmation=1" title = "YouTube Channel"> <img width = "25" src = "Images/Companies/YouTube/Image.svg"> YouTube </a> </code>
+  <code> <a href = "https://discord.gg/zCQTzAr" title = "Discord Server"> <img width = "20" src = "Images/Companies/Discord/Image.svg"> Discord </a> </code>
+  <code> <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo" title = "Twitter Profile"> <img width = "20" src = "Images/Companies/Twitter/Image.svg"> Twitter </a> </code>
+  <code> <a href = "https://www.youtube.com/c/Demolitionist?sub_confirmation=1" title = "YouTube Channel"> <img width = "20" src = "Images/Companies/YouTube/Image.svg"> YouTube </a> </code>
 </h5>
 <br>
 <p align = "center">
-  <img width = "25" src = "Images/Nations/Bangladesh/Image.svg">
-  'Ello there! I'm Demo, an independent contractor and software engineer from Bangladesh!
+  <img width = "20" src = "Images/Nations/Bangladesh/Image.svg"> 'Ello there! I'm Demo, an independent contractor and software engineer from Bangladesh!
   <br>
-  <img width = "25" src = "Images/Nations/United-States-of-America/Image.svg">
-  I reside within the United States of America!
+  <img width = "20" src = "Images/Nations/United-States-of-America/Image.svg"> I reside within the United States of America!
   <br>
-  <img width = "25" src = "Images/Companies/Roblox/Image.svg">
-  I'm an avid programmer and independent contractor on the [Roblox](https://www.roblox.com/) gaming platform!
+  <img width = "20" src = "Images/Companies/Roblox/Image.svg"> I'm an avid programmer and independent contractor on the <a href = "https://www.roblox.com" title = "Roblox"> gaming platform!
   <br>
-  <img width = "25" src = "Images/Companies/Roblox/Image.svg">
-  I have been working on the platform since late 2018, and have had a liking for how open communities tend to typically be!
+  <img width = "20" src = "Images/Companies/Roblox/Image.svg"> I have been working on the platform since late 2018, and have had a liking for how open communities tend to typically be!
   <br>
-  <img width = "25" src = "Images/Miscellaneous/Professor/Image.svg">
-  I love problem solving, as well as researching into new technologies, and have been open to tutoring individuals on the side!
+  <img width = "20" src = "Images/Miscellaneous/Professor/Image.svg"> I love problem solving, as well as researching into new technologies, and have been open to tutoring individuals on the side!
   <br>
-  <img width = "25" src = "Images/Miscellaneous/Computer/Image.svg">
-  I'm currently a huge player for <a href = "https://luau-lang.org/getting-started" title = "Luau">
-    Luau
-  </a>
-  and <a href = "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" title = "TypeScript">
-    TypeScript!
-  </a>
+  <img width = "20" src = "Images/Miscellaneous/Computer/Image.svg"> I'm currently a huge player for <a href = "https://luau-lang.org/getting-started" title = "Luau"> Luau </a> and <a href = "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" title = "TypeScript"> TypeScript! </a>
   <br>
-  <img width = "25" src = "Images/Companies/GitHub/Image.svg">
-  Ask me in regards to anything
-  <a href = "https://github.com/Robloxian-Demo/RobloxianDemo/issues" title = "Issues">
-    here!
-  </a>
+  <img width = "20" src = "Images/Companies/GitHub/Image.svg"> Ask me in regards to anything <a href =  "https://github.com/Robloxian-Demo/RobloxianDemo/issues" title = "Issues"> here! </a>
   <br>
 </p>
 
