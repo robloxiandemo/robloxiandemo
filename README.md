@@ -5,7 +5,7 @@
 
 <h5 align = "center">
   <code> <a href = "https://github.com/RobloxianDemo" title = "GitHub Profile"> <img width = "20" src = "Images/Companies/GitHub/Image.svg"> GitHub </a> </code>
-  <code> <a href = "https://www.roblox.com/users/289025524/profile" title = "Roblox Profile"> <img width = "25" src = "Images/Companies/Roblox/Image.svg"> Roblox </a> </code>
+  <code> <a href = "https://www.roblox.com/users/289025524/profile" title = "Roblox Profile"> <img width = "20" src = "Images/Companies/Roblox/Image.svg"> Roblox </a> </code>
   <code> <a href = "https://discord.gg/zCQTzAr" title = "Discord Server"> <img width = "20" src = "Images/Companies/Discord/Image.svg"> Discord </a> </code>
   <code> <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo" title = "Twitter Profile"> <img width = "20" src = "Images/Companies/Twitter/Image.svg"> Twitter </a> </code>
   <code> <a href = "https://www.youtube.com/c/Demolitionist?sub_confirmation=1" title = "YouTube Channel"> <img width = "20" src = "Images/Companies/YouTube/Image.svg"> YouTube </a> </code>
@@ -33,59 +33,27 @@
   📜 Frameworks | Languages | Technologies 📜
 </h2>
 <br>
-<p align = "left">
-  <code>
-    <img title = "Knit" height = "25" src = "Images/Frameworks/Knit/Image.svg">
-  </code>
-  <code>
-    <img title = "NevermoreEngine" height = "25" src = "Images/Frameworks/NevermoreEngine/Image.svg">
-  </code>
+<p align = "center">
+  <code> <img title = "Knit" height = "20" src = "Images/Frameworks/Knit/Image.svg"> </code>
+  <code> <img title = "NevermoreEngine" height = "20" src = "Images/Frameworks/NevermoreEngine/Image.svg"> </code>
 </p>
 <p align = "center">
-  <code>
-    <img title = "C" height = "25" src = "Images/Languages/C/Image.svg">
-  </code>
-  <code>
-    <img title = "C#" height = "25" src = "Images/Languages/C#/Image.svg">
-  </code>
-  <code>
-    <img title = "C++" height = "25" src = "Images/Languages/C++/Image.svg">
-  </code>
-  <code>
-    <img title = "CSS" height = "25" src = "Images/Languages/CSS/Image.svg">
-  </code>
-  <code>
-    <img title = "HTML" height = "25" src = "Images/Languages/HTML/Image.svg">
-  </code>
-  <code>
-    <img title = "JavaScript" height = "25" src = "Images/Languages/JavaScript/Image.svg">
-  </code>
-  <code>
-    <img title = "PHP" height = "25" src = "Images/Languages/PHP/Image.svg">
-  </code>
-  <code>
-    <img title = "TypeScript" height = "25" src = "Images/Languages/TypeScript/Image.svg">
-  </code>
-  <code>
-    <img title = "Java" height = "25" src = "Images/Languages/Java/Image.svg">
-  </code>
-  <code>
-    <img title = "Python" height = "25" src = "Images/Languages/Python/Image.svg">
-  </code>
-  <code>
-    <img title = "Ruby" height = "25" src = "Images/Languages/Ruby/Image.svg">
-  </code>
+  <code> <img title = "C" height = "20" src = "Images/Languages/C/Image.svg"> </code>
+  <code> <img title = "C#" height = "20" src = "Images/Languages/C#/Image.svg"> </code>
+  <code> <img title = "C++" height = "20" src = "Images/Languages/C++/Image.svg"> </code>
+  <code> <img title = "CSS" height = "20" src = "Images/Languages/CSS/Image.svg"> </code>
+  <code>  <img title = "HTML" height = "20" src = "Images/Languages/HTML/Image.svg"> </code>
+  <code> <img title = "JavaScript" height = "20" src = "Images/Languages/JavaScript/Image.svg"> </code>
+  <code> <img title = "PHP" height = "20" src = "Images/Languages/PHP/Image.svg"> </code>
+  <code>  <img title = "TypeScript" height = "20" src = "Images/Languages/TypeScript/Image.svg"> </code>
+  <code> <img title = "Java" height = "20" src = "Images/Languages/Java/Image.svg"> </code>
+  <code> <img title = "Python" height = "20" src = "Images/Languages/Python/Image.svg"> </code>
+  <code> <img title = "Ruby" height = "20" src = "Images/Languages/Ruby/Image.svg"> </code>
 </p>
-<p align = "right">
-  <code>
-    <img title = "Fusion" height = "25" src = "Images/Technologies/Fusion/Image.svg">
-  </code>
-  <code>
-    <img title = "RbxUtil" height = "25" src = "Images/Technologies/RbxUtil/Image.svg">
-  </code>
-  <code>
-    <img title = "Roblox-Modules" height = "25" src = "Images/Technologies/Roblox-Modules/Image.svg">
-  </code>
+<p align = "center">
+  <code> <img title = "Fusion" height = "20" src = "Images/Technologies/Fusion/Image.svg"> </code>
+  <code> <img title = "RbxUtil" height = "20" src = "Images/Technologies/RbxUtil/Image.svg"> </code>
+  <code> <img title = "Roblox-Modules" height = "20" src = "Images/Technologies/Roblox-Modules/Image.svg"> </code>
 </p>
 <hr>
 
