@@ -8,6 +8,10 @@
     <img src = "https://img.shields.io/github/followers/RobloxianDemo?color=%23f5f5f5&label=Follow%20%40RobloxianDemo&logo=GitHub&logoColor=%23fafafa&style=for-the-badge"
       alt = "GitHub" />
   </a>
+  <a href = "https://discord.gg/zCQTzAr">
+    <img src = "https://img.shields.io/discord/569871687076544545?color=%23738ADB&label=Join%20%40Facilitative&logo=Discord&logoColor=%23738ADB&style=for-the-badge"
+      alt = "Discord" />
+  </a>
   <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo">
     <img src = "https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge"
       alt = "Twitter" />
@@ -69,7 +73,5 @@
 ![Credits](https://github.com/iampavangandhi)
 
 ![Metrics](https://metrics.lecoq.io/RobloxianDemo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=US%2FNewYork)
-
-[![Discord](https://img.shields.io/discord/569871687076544545?color=%23738ADB&label=Join%20%40Facilitative&logo=Discord&logoColor=%23738ADB&style=for-the-badge)](https://discord.gg/zCQTzAr)
 
 -->
