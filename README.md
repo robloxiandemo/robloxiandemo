@@ -16,7 +16,7 @@
   <br>
   <img width = "20" src = "Images/Nations/United-States-of-America/Image.svg"> I reside within the United States of America!
   <br>
-  <img width = "20" src = "Images/Companies/Roblox/Image.svg"> I'm an avid programmer and independent contractor on the <a href = "https://www.roblox.com" title = "Roblox"> gaming platform!
+  <img width = "20" src = "Images/Companies/Roblox/Image.svg"> I'm an avid programmer and independent contractor on the <a href = "https://www.roblox.com" title = "Roblox"> Roblox </a> gaming platform!
   <br>
   <img width = "20" src = "Images/Companies/Roblox/Image.svg"> I have been working on the platform since late 2018, and have had a liking for how open communities tend to typically be!
   <br>
