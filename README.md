@@ -1,48 +1,181 @@
-## 'Ello there! I'm [Robloxian Demo](https://www.youtube.com/c/Demoman?sub_confirmation=1)! <img src = "https://media3.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=790b7611pqudfl3ym6b1njv90ivuhdblkdn9ex7jj8gkj1rf&rid=giphy.gif&ct=s" width = "15px">
+<img align = "right" src = "https://komarev.com/ghpvc/?username=RobloxianDemo" alt = "RobloxianDemo">
 
-## Social Medias 🐦
-[![Twitter](https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpS7v1M4bRKkq-hMysfOKw?label=Subscribe%20%40Demo&logo=YouTube&logoColor=%23FF0000&style=for-the-badge)](https://www.youtube.com/c/Demoman?sub_confirmation=1)
-[![Discord](https://img.shields.io/discord/569871687076544545?color=%23738ADB&label=Join%20%40Facilitative&logo=Discord&logoColor=%23738ADB&style=for-the-badge)](https://discord.gg/zCQTzAr)
+<h1 align = "center">
+  <a href = "https://git.io/typing-svg">
+    <img src = "https://readme-typing-svg.herokuapp.com/?lines=%27Ello,+there!+%F0%9F%91%8B;This+is+Robloxian+Demo!;Pleasure+to+meet+you!&right=true&size=35">
+  </a>
+</h1>
 
-## Favorite Programming Languages 👨‍💻
-* [C](https://devdocs.io/c) <img src = "https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width = "25"/>
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide) <img src = "https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" width = "25"/>
-* [C++](https://devdocs.io/cpp) <img src = "https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png" width = "25"/>
-* [CSS](https://devdocs.io/css) <img src = "https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png" width = "25"/>
-* [HTML](https://devdocs.io/html) <img src = "https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png" width = "25"/>
-* [Lua](https://luau-lang.org) <img src = "https://cdn.iconscout.com/icon/free/png-256/lua-3521554-2944972.png" width = "25"/>
-* [Luau](https://devdocs.io/lua) <img src = "https://luau-lang.org/assets/images/luau-88.png" width = "30"/>
-* [JS](https://devdocs.io/javascript) <img src = "https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" width = "25"/>
-* [TS](https://devdocs.io/typescript) <img src = "https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width = "25"/>
-* [Python](https://devdocs.io/python) <img src = "https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" width = "25"/>
-* [Ruby](https://devdocs.io/ruby) <img src = "https://cdn.iconscout.com/icon/free/png-256/ruby-3521683-2945127.png" width = "25"/>
+<h5 align = "center">
+  <code>
+    <a href = "https://github.com/RobloxianDemo" title = "GitHub Profile">
+      <img width = "25" src = "Images/Companies/GitHub/Image.svg">
+      GitHub
+    </a>
+  </code>
+  <code>
+    <a href = "https://www.roblox.com/users/289025524/profile" title = "Roblox Profile">
+      <img width = "25" src = "Images/Companies/Roblox/Image.svg">
+      Roblox
+    </a>
+  </code>
+  <code>
+    <a href = "https://discord.gg/zCQTzAr" title = "Discord Server">
+      <img width = "25" src = "Images/Companies/Discord/Image.svg">
+      Discord
+    </a>
+  </code>
+  <code>
+    <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo" title = "Twitter Profile">
+      <img width = "25" src = "Images/Companies/Twitter/Image.svg">
+      Twitter
+    </a>
+  </code>
+  <code>
+    <a href = "https://www.youtube.com/c/Demolitionist?sub_confirmation=1" title = "YouTube Channel">
+      <img width = "25" src = "Images/Companies/YouTube/Image.svg">
+      YouTube
+    </a>
+  </code>
+</h5>
+<br>
+<p align = "center">
+  <img width = "25" src = "Images/Nations/Bangladesh/Image.svg">
+  'Ello there! I'm Demo, an independent contractor and software engineer from Bangladesh!
+  <br>
+  <img width = "25" src = "Images/Nations/United-States-of-America/Image.svg">
+  I reside within the United States of America!
+  <br>
+  <img width = "25" src = "Images/Companies/Roblox/Image.svg">
+  I'm an avid programmer and independent contractor on the [Roblox](https://www.roblox.com/) gaming platform!
+  <br>
+  <img width = "25" src = "Images/Companies/Roblox/Image.svg">
+  I have been working on the platform since late 2018, and have had a liking for how open communities tend to typically be!
+  <br>
+  <img width = "25" src = "Images/Miscellaneous/Professor/Image.svg">
+  I love problem solving, as well as researching into new technologies, and have been open to tutoring individuals on the side!
+  <br>
+  <img width = "25" src = "Images/Miscellaneous/Computer/Image.svg">
+  I'm currently a huge player for <a href = "https://luau-lang.org/getting-started" title = "Luau">
+    Luau
+  </a>
+  and <a href = "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" title = "TypeScript">
+    TypeScript!
+  </a>
+  <br>
+  <img width = "25" src = "Images/Companies/GitHub/Image.svg">
+  Ask me in regards to anything
+  <a href = "https://github.com/Robloxian-Demo/RobloxianDemo/issues" title = "Issues">
+    here!
+  </a>
+  <br>
+</p>
 
-## Favorite Technologies 🖥️
-* [Express.js](https://expressjs.com/en/5x/api.html) <img src = "https://external-content.duckduckgo.com/ip3/expressjs.com.ico" width = "25"/>
-* [Node.js](https://nodejs.org/api/index.html) <img src = "https://cdn.iconscout.com/icon/free/png-256/node-js-3-1174937.png" width = "25"/>
-* [React](https://reactjs.org/docs/react-api.html) <img src = "https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" width = "25"/>
+<hr>
+<h2 align = "center">
+  📜 Frameworks | Languages | Technologies 📜
+</h2>
+<br>
+<p align = "left">
+  <code>
+    <img title = "Knit" height = "25" src = "Images/Frameworks/Knit/Image.svg">
+  </code>
+  <code>
+    <img title = "NevermoreEngine" height = "25" src = "Images/Frameworks/NevermoreEngine/Image.svg">
+  </code>
+</p>
+<p align = "center">
+  <code>
+    <img title = "C" height = "25" src = "Images/Languages/C/Image.svg">
+  </code>
+  <code>
+    <img title = "C#" height = "25" src = "Images/Languages/C#/Image.svg">
+  </code>
+  <code>
+    <img title = "C++" height = "25" src = "Images/Languages/C++/Image.svg">
+  </code>
+  <code>
+    <img title = "CSS" height = "25" src = "Images/Languages/CSS/Image.svg">
+  </code>
+  <code>
+    <img title = "HTML" height = "25" src = "Images/Languages/HTML/Image.svg">
+  </code>
+  <code>
+    <img title = "JavaScript" height = "25" src = "Images/Languages/JavaScript/Image.svg">
+  </code>
+  <code>
+    <img title = "PHP" height = "25" src = "Images/Languages/PHP/Image.svg">
+  </code>
+  <code>
+    <img title = "TypeScript" height = "25" src = "Images/Languages/TypeScript/Image.svg">
+  </code>
+  <code>
+    <img title = "Java" height = "25" src = "Images/Languages/Java/Image.svg">
+  </code>
+  <code>
+    <img title = "Python" height = "25" src = "Images/Languages/Python/Image.svg">
+  </code>
+  <code>
+    <img title = "Ruby" height = "25" src = "Images/Languages/Ruby/Image.svg">
+  </code>
+</p>
+<p align = "right">
+  <code>
+    <img title = "Fusion" height = "25" src = "Images/Technologies/Fusion/Image.svg">
+  </code>
+  <code>
+    <img title = "RbxUtil" height = "25" src = "Images/Technologies/RbxUtil/Image.svg">
+  </code>
+  <code>
+    <img title = "Roblox-Modules" height = "25" src = "Images/Technologies/Roblox-Modules/Image.svg">
+  </code>
+</p>
+<hr>
 
-**Roblox-related.**
-* [Knit](https://sleitnick.github.io/Knit/api) <img src = "https://external-content.duckduckgo.com/ip3/developer.roblox.com.ico" width = "25"/>
-* [ProfileService](https://madstudioroblox.github.io/ProfileService/api) <img src = "https://external-content.duckduckgo.com/ip3/developer.roblox.com.ico" width = "25"/>
-* [ReplicaService](https://madstudioroblox.github.io/ReplicaService/api) <img src = "https://external-content.duckduckgo.com/ip3/developer.roblox.com.ico" width = "25"/>
-* [Roact](https://roblox.github.io/roact/api-reference) <img src = "https://external-content.duckduckgo.com/ip3/developer.roblox.com.ico" width = "25"/>
-* [Rojo](https://rojo.space/docs/v6) <img src = "https://rojo.space/img/logo.png" width = "50"/>
+<h2 align="center">📈 Statistics 📈</h2>
+<br>
+<p align = center>
+  <div align = center>
+    <a href = "https://github.com/denvercoder1/github-readme-streak-stats" title = "View Source">
+      <img align = "left" width = 400 src =  "https://github-readme-streak-stats.herokuapp.com/?user=RobloxianDemo&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" alt = "RobloxianDemo" />
+    </a>
+    <a href = "https://github.com/anuraghazra/github-readme-stats" title="View Source">
+      <img align = "right" width = 400 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align = center>
+    <a href = "https://github.com/anuraghazra/github-readme-stats">
+      <img width = 350 align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=RobloxianDemo&theme=react-dark&bg_color=20232a&hide_border=true" width = "100%"/>
+</p>
 
-## Current Projects 🕵️
-* [Founder](https://twitter.com/Facilitative_) <img src = "https://tr.rbxcdn.com/1dd88c0308dcb21b089db6e2b61646d2/150/150/Image/Png" width = "45"/>
-* [Lead Programmer](https://www.roblox.com/groups/5211677/Capital-Productions) <img src = "https://tr.rbxcdn.com/6489c7cb24febcf9de5074841a09cd79/150/150/Image/Png" width = "45"/>
-* [Lead Programmer](https://www.roblox.com/groups/7685450/Marvelous-Studio) <img src = "https://tr.rbxcdn.com/63ef3d08c7a6172a941104461a38d46d/150/150/Image/Png" width = "45"/>
-* [Lead Programmer](https://www.roblox.com/groups/5504197/CL-Game-Studio) <img src = "https://tr.rbxcdn.com/6dbe6260cd90ef0f7697d5889fb66319/150/150/Image/Png" width = "45"/>
-* [Programmer](https://www.roblox.com/groups/7165738/Play-Studios) <img src = "https://tr.rbxcdn.com/5e72113f53720f951d1660a7da4785ca/150/150/Image/Png" width = "45"/>
-* [Lead Programmer](https://www.roblox.com/groups/15202675/Play-Development-4) <img src = "https://tr.rbxcdn.com/5e72113f53720f951d1660a7da4785ca/150/150/Image/Png" width = "45"/>
+<hr>
 
-## User Statistics 📊
-<img src = "https://komarev.com/ghpvc/?username=RobloxianDemo" alt = "RobloxianDemo" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&layout=compact" /> <img src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true" />
+<h2 align = "center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width = "100%" align = "center">
+  <a align = "left" href = "https://github.com/RobloxianDemo/RobloxianDemo" title = "Profile">
+    <img align = "left" height = "150" src = "https://github-readme-stats.vercel.app/api/pin/?username=RobloxianDemo&repo=RobloxianDemo&theme=react&border_color=61dafb&border_radius=5">
+  </a>
+  <a align = "right" href = "https://github.com/RobloxianDemo/RobloxianDemo" title = "Roblox Modules">
+    <img align = "right" height = "150" src = "https://github-readme-stats.vercel.app/api/pin/?username=RobloxianDemo&repo=Roblox-Modules&theme=react&border_color=61dafb&border_radius=5">
+  </a>
+</div>
+<br><br><br><br><br><br>
+<h4 align = "center">
+  <a href = "https://github.com/RobloxianDemo?tab=repositories" title = "Reveal Repositories">
+    🔎 Reveal More 🔍
+  </a>
+</h4>
 
-✨ *I'd like to give a special token of appreciation to:* ✨
-* ***[Eldon](https://github.com/eldonwilliams/eldonwilliams)** | **[Haany](https://github.com/MarikIshtar007/MarikIshtar007)** - Inspiration for my profile.*
-* ***[Free Icons](https://www.freeiconspng.com/)** - Icons for each social media.*
-* ***[Iconscout](https://iconscout.com/)** - Icons for each programming language.*
+<!--
+
+![Credits](https://github.com/iampavangandhi)
+
+![Metrics](https://metrics.lecoq.io/RobloxianDemo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=US%2FNewYork)
+
+-->
