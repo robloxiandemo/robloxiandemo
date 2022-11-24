@@ -4,9 +4,9 @@
   <a href = "https://git.io/typing-svg"> <img src = "https://readme-typing-svg.herokuapp.com/?lines=%27Ello,+there!+%F0%9F%91%8B;Robloxian+Demo+here!;Pleasure+to+meet+you!&right=true&size=35"> </a> </h1>
 
 <h2 align = "center">
-  <code> <a href = "https://github.com/RobloxianDemo?tab=followers" title = "GitHub"> <img src = "https://img.shields.io/github/followers/RobloxianDemo?color=%23f5f5f5&label=Follow%20%40RobloxianDemo&logo=GitHub&logoColor=%23fafafa&style=for-the-badge"> </a> </code>
-  <code> <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo" title = "Twitter"> <img src = "https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge"> </a> </code>
-  <code> <a href = "https://www.youtube.com/c/Demoman?sub_confirmation=1" title = "YouTube"> <img src = "https://img.shields.io/youtube/channel/subscribers/UCLpS7v1M4bRKkq-hMysfOKw?label=Subscribe%20to%20%20%40Demo&logo=YouTube&logoColor=%23FF0000&style=for-the-badge"> </a> </code>
+  <code> <a href = "https://github.com/RobloxianDemo?tab=followers" title = "GitHub"> <img width = "35" src = "https://img.shields.io/github/followers/RobloxianDemo?color=%23f5f5f5&label=Follow%20%40RobloxianDemo&logo=GitHub&logoColor=%23fafafa&style=for-the-badge"> </a> </code>
+  <code> <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo" title = "Twitter"> <img width = "35" src = "https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge"> </a> </code>
+  <code> <a href = "https://www.youtube.com/c/Demoman?sub_confirmation=1" title = "YouTube"> <img width = "35" src = "https://img.shields.io/youtube/channel/subscribers/UCLpS7v1M4bRKkq-hMysfOKw?label=Subscribe%20to%20%20%40Demo&logo=YouTube&logoColor=%23FF0000&style=for-the-badge"> </a> </code>
 </h2>
 
 <br>
