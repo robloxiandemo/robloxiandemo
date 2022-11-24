@@ -19,7 +19,7 @@
   <br>
   I love problem solving, as well as researching into new technologies, and have been open to tutoring individuals on the side!
   <br>
-  I'm currently a huge player for <a href = "https://luau-lang.org/getting-started" title = "Luau"> Luau </a> and <a href = "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" title = "TypeScript"> TypeScript! </a>
+  I'm a current heavy user for <a href = "https://luau-lang.org/getting-started" title = "Luau"> Luau </a> and <a href = "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" title = "TypeScript"> TypeScript! </a>
   <br>
   Ask me in regards to anything <a href =  "https://github.com/Robloxian-Demo/RobloxianDemo/issues" title = "Issues"> here! </a>
   <br>
