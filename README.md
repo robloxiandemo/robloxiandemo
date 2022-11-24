@@ -61,12 +61,12 @@
 <br>
 <p align = left>
   <div align = left>
-    <a href = "https://github.com/denvercoder1/github-readme-streak-stats" title = "View Source"> <img align = "left" width = 325 src =  "https://github-readme-streak-stats.herokuapp.com/?user=RobloxianDemo&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" alt = "RobloxianDemo" /> </a>
-    <a href = "https://github.com/anuraghazra/github-readme-stats" title = "View Source"> <img align = "left" width = 325 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" /> </a>
+    <a href = "https://github.com/denvercoder1/github-readme-streak-stats" title = "View Source"> <img align = "left" width = 390 src =  "https://github-readme-streak-stats.herokuapp.com/?user=RobloxianDemo&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" alt = "RobloxianDemo" /> </a>
+    <a href = "https://github.com/anuraghazra/github-readme-stats" title = "View Source"> <img align = "left" width = 390 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" /> </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align = right>
-    <a href = "https://github.com/anuraghazra/github-readme-stats"> <img width = 275 align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> </a>
+    <a href = "https://github.com/anuraghazra/github-readme-stats"> <img width = 325 align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> </a>
   </div>
   <br>
   <img src = "https://activity-graph.herokuapp.com/graph?username=RobloxianDemo&theme=react-dark&bg_color=20232a&hide_border=true" width = "100%"/>
