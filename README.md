@@ -39,8 +39,8 @@
 </p>
 <p align = "center">
   <code><img title = "C" height = "20" src = "Images/Languages/C/Image.svg"></code>
-  <code><img title = "C#" height = "20" src = "Images/Languages/C#/Image.svg"></code>
-  <code><img title = "C++" height = "20" src = "Images/Languages/C++/Image.svg"></code>
+  <code><img title = "C#" height = "20" src = "Images/Languages/CSharp/Image.svg"></code>
+  <code><img title = "C++" height = "20" src = "Images/Languages/CPP/Image.svg"></code>
   <code><img title = "CSS" height = "20" src = "Images/Languages/CSS/Image.svg"></code>
   <code><img title = "HTML" height = "20" src = "Images/Languages/HTML/Image.svg"></code>
   <code><img title = "JavaScript" height = "20" src = "Images/Languages/JavaScript/Image.svg"></code>
