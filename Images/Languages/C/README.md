@@ -1,1 +1,0 @@
-[Official Website](https://devdocs.io/c/)

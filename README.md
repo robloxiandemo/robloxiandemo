@@ -3,59 +3,28 @@
 <h1 align = "center">
   <a href = "https://git.io/typing-svg"> <img src = "https://readme-typing-svg.herokuapp.com/?lines=%27Ello,+there!+%F0%9F%91%8B;Robloxian+Demo+here!;Pleasure+to+meet+you!&right=true&size=35"> </a> </h1>
 
-<h5 align = "center">
-  <code><a href = "https://github.com/RobloxianDemo" title = "GitHub Profile"> <img width = "20" src = "Images/Companies/GitHub/Image.svg"> GitHub</a></code>
-  <code><a href = "https://www.roblox.com/users/289025524/profile" title = "Roblox Profile"> <img width = "20" src = "Images/Companies/Roblox/Image.svg"> Roblox</a></code>
-  <code><a href = "https://discord.gg/zCQTzAr" title = "Discord Server"> <img width = "20" src = "Images/Companies/Discord/Image.svg"> Discord</a></code>
-  <code><a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo" title = "Twitter Profile"> <img width = "20" src = "Images/Companies/Twitter/Image.svg"> Twitter</a></code>
-  <code><a href = "https://www.youtube.com/c/Demolitionist?sub_confirmation=1" title = "YouTube Channel"> <img width = "20" src = "Images/Companies/YouTube/Image.svg"> YouTube</a></code>
-</h5>
-<br>
-<p align = "center">
-  <img width = "20" src = "Images/Nations/Bangladesh/Image.svg"> 'Ello there! I'm Demo, an independent contractor and software engineer from Bangladesh!
-  <br>
-  <img width = "20" src = "Images/Nations/United-States-of-America/Image.svg"> I reside within the United States of America!
-  <br>
-  <img width = "20" src = "Images/Companies/Roblox/Image.svg"> I'm an avid programmer and independent contractor on the <a href = "https://www.roblox.com" title = "Roblox"> Roblox </a> gaming platform!
-  <br>
-  <img width = "20" src = "Images/Companies/Roblox/Image.svg"> I have been working on the platform since late 2018, and have had a liking for how open communities tend to typically be!
-  <br>
-  <img width = "20" src = "Images/Miscellaneous/Professor/Image.svg"> I love problem solving, as well as researching into new technologies, and have been open to tutoring individuals on the side!
-  <br>
-  <img width = "20" src = "Images/Miscellaneous/Computer/Image.svg"> I'm currently a huge player for <a href = "https://luau-lang.org/getting-started" title = "Luau"> Luau </a> and <a href = "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" title = "TypeScript"> TypeScript! </a>
-  <br>
-  <img width = "20" src = "Images/Companies/GitHub/Image.svg"> Ask me in regards to anything <a href =  "https://github.com/Robloxian-Demo/RobloxianDemo/issues" title = "Issues"> here! </a>
-  <br>
-</p>
+[![GitHub](https://img.shields.io/github/followers/RobloxianDemo?color=%23f5f5f5&label=Follow%20%40RobloxianDemo&logo=GitHub&logoColor=%23fafafa&style=for-the-badge)](https://github.com/RobloxianDemo?tab=followers)
+[![Twitter](https://img.shields.io/twitter/follow/RobloxianDemo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=RobloxianDemo)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLpS7v1M4bRKkq-hMysfOKw?label=Subscribe%20%40Demo&logo=YouTube&logoColor=%23FF0000&style=for-the-badge)](https://www.youtube.com/c/Demoman?sub_confirmation=1)
+[![Discord](https://img.shields.io/discord/569871687076544545?color=%23738ADB&label=Join%20%40Facilitative&logo=Discord&logoColor=%23738ADB&style=for-the-badge)](https://discord.gg/zCQTzAr)
 
-<hr>
-<h2 align = "center">
-  📜 Frameworks | Languages | Technologies 📜
-</h2>
 <br>
 <p align = "center">
-  <code> <img title = "Knit" height = "20" src = "Images/Frameworks/Knit/Image.svg"> </code>
-  <code> <img title = "NevermoreEngine" height = "20" src = "Images/Frameworks/NevermoreEngine/Image.svg"> </code>
+  'Ello there! I'm Demo, an independent contractor and software engineer from Bangladesh!
+  <br>
+  I reside within the United States of America!
+  <br>
+  I'm an avid programmer and independent contractor on the <a href = "https://www.roblox.com" title = "Roblox"> Roblox </a> gaming platform!
+  <br>
+  I have been working on the platform since late 2018, and have had a liking for how open communities tend to typically be!
+  <br>
+  I love problem solving, as well as researching into new technologies, and have been open to tutoring individuals on the side!
+  <br>
+  I'm currently a huge player for <a href = "https://luau-lang.org/getting-started" title = "Luau"> Luau </a> and <a href = "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" title = "TypeScript"> TypeScript! </a>
+  <br>
+  Ask me in regards to anything <a href =  "https://github.com/Robloxian-Demo/RobloxianDemo/issues" title = "Issues"> here! </a>
+  <br>
 </p>
-<p align = "center">
-  <code><img title = "C" height = "20" src = "Images/Languages/C/Image.svg"></code>
-  <code><img title = "C#" height = "20" src = "Images/Languages/CSharp/Image.svg"></code>
-  <code><img title = "C++" height = "20" src = "Images/Languages/CPP/Image.svg"></code>
-  <code><img title = "CSS" height = "20" src = "Images/Languages/CSS/Image.svg"></code>
-  <code><img title = "HTML" height = "20" src = "Images/Languages/HTML/Image.svg"></code>
-  <code><img title = "JavaScript" height = "20" src = "Images/Languages/JavaScript/Image.svg"></code>
-  <code><img title = "PHP" height = "20" src = "Images/Languages/PHP/Image.svg"></code>
-  <code><img title = "TypeScript" height = "20" src = "Images/Languages/TypeScript/Image.svg"></code>
-  <code><img title = "Java" height = "20" src = "Images/Languages/Java/Image.svg"></code>
-  <code><img title = "Python" height = "20" src = "Images/Languages/Python/Image.svg"></code>
-  <code><img title = "Ruby" height = "20" src = "Images/Languages/Ruby/Image.svg"></code>
-</p>
-<p align = "center">
-  <code> <img title = "Fusion" height = "20" src = "Images/Technologies/Fusion/Image.svg"> </code>
-  <code> <img title = "RbxUtil" height = "20" src = "Images/Technologies/RbxUtil/Image.svg"> </code>
-  <code> <img title = "Roblox-Modules" height = "20" src = "Images/Technologies/Roblox-Modules/Image.svg"> </code>
-</p>
-<hr>
 
 <h2 align = "center">📈 Statistics 📈</h2>
 <br>
@@ -82,7 +51,7 @@
 </div>
 <br><br><br><br><br><br>
 <h4 align = "center">
-  <a href = "https://github.com/RobloxianDemo?tab=repositories" title = "Reveal Repositories"> 🔎 Reveal More 🔍  </a>
+  <a href = "https://github.com/RobloxianDemo?tab=repositories" title = "Reveal Repositories"> 🔎 Reveal More 🔍</a>
 </h4>
 
 <!--

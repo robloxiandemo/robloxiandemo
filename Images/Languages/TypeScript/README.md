@@ -1,1 +1,0 @@
-[Official Website](https://www.typescriptlang.org/docs/)

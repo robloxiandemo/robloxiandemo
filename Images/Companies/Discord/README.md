@@ -1,1 +1,0 @@
-[Official Website](https://discord.com/)
