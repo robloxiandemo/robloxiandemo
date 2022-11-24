@@ -65,7 +65,7 @@
     <a href = "https://github.com/anuraghazra/github-readme-stats" title = "View Source"> <img align = "left" width = 390 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" /> </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align = right>
+  <div align = center>
     <a href = "https://github.com/anuraghazra/github-readme-stats"> <img width = 325 align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> </a>
   </div>
   <br>
