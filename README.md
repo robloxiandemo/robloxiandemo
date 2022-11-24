@@ -1,42 +1,14 @@
 <img align = "right" src = "https://komarev.com/ghpvc/?username=RobloxianDemo" alt = "RobloxianDemo">
 
 <h1 align = "center">
-  <a href = "https://git.io/typing-svg">
-    <img src = "https://readme-typing-svg.herokuapp.com/?lines=%27Ello,+there!+%F0%9F%91%8B;This+is+Robloxian+Demo!;Pleasure+to+meet+you!&right=true&size=35">
-  </a>
-</h1>
+  <a href = "https://git.io/typing-svg"> <img src = "https://readme-typing-svg.herokuapp.com/?lines=%27Ello,+there!+%F0%9F%91%8B;Robloxian+Demo+here!;Pleasure+to+meet+you!&right=true&size=35"> </a> </h1>
 
 <h5 align = "center">
-  <code>
-    <a href = "https://github.com/RobloxianDemo" title = "GitHub Profile">
-      <img width = "25" src = "Images/Companies/GitHub/Image.svg">
-      GitHub
-    </a>
-  </code>
-  <code>
-    <a href = "https://www.roblox.com/users/289025524/profile" title = "Roblox Profile">
-      <img width = "25" src = "Images/Companies/Roblox/Image.svg">
-      Roblox
-    </a>
-  </code>
-  <code>
-    <a href = "https://discord.gg/zCQTzAr" title = "Discord Server">
-      <img width = "25" src = "Images/Companies/Discord/Image.svg">
-      Discord
-    </a>
-  </code>
-  <code>
-    <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo" title = "Twitter Profile">
-      <img width = "25" src = "Images/Companies/Twitter/Image.svg">
-      Twitter
-    </a>
-  </code>
-  <code>
-    <a href = "https://www.youtube.com/c/Demolitionist?sub_confirmation=1" title = "YouTube Channel">
-      <img width = "25" src = "Images/Companies/YouTube/Image.svg">
-      YouTube
-    </a>
-  </code>
+  <code> <a href = "https://github.com/RobloxianDemo" title = "GitHub Profile"> <img width = "25" src = "Images/Companies/GitHub/Image.svg"> GitHub </a> </code>
+  <code> <a href = "https://www.roblox.com/users/289025524/profile" title = "Roblox Profile"> <img width = "25" src = "Images/Companies/Roblox/Image.svg"> Roblox </a> </code>
+  <code> <a href = "https://discord.gg/zCQTzAr" title = "Discord Server"> <img width = "25" src = "Images/Companies/Discord/Image.svg"> Discord </a> </code>
+  <code> <a href = "https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRobloxianDemo&screen_name=RobloxianDemo" title = "Twitter Profile"> <img width = "25" src = "Images/Companies/Twitter/Image.svg"> Twitter </a> </code>
+  <code> <a href = "https://www.youtube.com/c/Demolitionist?sub_confirmation=1" title = "YouTube Channel"> <img width = "25" src = "Images/Companies/YouTube/Image.svg"> YouTube </a> </code>
 </h5>
 <br>
 <p align = "center">
