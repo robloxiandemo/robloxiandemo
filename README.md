@@ -38,17 +38,17 @@
   <code> <img title = "NevermoreEngine" height = "20" src = "Images/Frameworks/NevermoreEngine/Image.svg"> </code>
 </p>
 <p align = "center">
-  <code> <img title = "C" height = "20" src = "Images/Languages/C/Image.svg"> </code>
-  <code> <img title = "C#" height = "20" src = "Images/Languages/C#/Image.svg"> </code>
-  <code> <img title = "C++" height = "20" src = "Images/Languages/C++/Image.svg"> </code>
-  <code> <img title = "CSS" height = "20" src = "Images/Languages/CSS/Image.svg"> </code>
-  <code>  <img title = "HTML" height = "20" src = "Images/Languages/HTML/Image.svg"> </code>
-  <code> <img title = "JavaScript" height = "20" src = "Images/Languages/JavaScript/Image.svg"> </code>
-  <code> <img title = "PHP" height = "20" src = "Images/Languages/PHP/Image.svg"> </code>
-  <code>  <img title = "TypeScript" height = "20" src = "Images/Languages/TypeScript/Image.svg"> </code>
-  <code> <img title = "Java" height = "20" src = "Images/Languages/Java/Image.svg"> </code>
-  <code> <img title = "Python" height = "20" src = "Images/Languages/Python/Image.svg"> </code>
-  <code> <img title = "Ruby" height = "20" src = "Images/Languages/Ruby/Image.svg"> </code>
+  <code><img title = "C" height = "20" src = "Images/Languages/C/Image.svg"></code>
+  <code><img title = "C#" height = "20" src = "Images/Languages/C#/Image.svg"></code>
+  <code><img title = "C++" height = "20" src = "Images/Languages/C++/Image.svg"></code>
+  <code><img title = "CSS" height = "20" src = "Images/Languages/CSS/Image.svg"></code>
+  <code><img title = "HTML" height = "20" src = "Images/Languages/HTML/Image.svg"></code>
+  <code><img title = "JavaScript" height = "20" src = "Images/Languages/JavaScript/Image.svg"></code>
+  <code><img title = "PHP" height = "20" src = "Images/Languages/PHP/Image.svg"></code>
+  <code><img title = "TypeScript" height = "20" src = "Images/Languages/TypeScript/Image.svg"></code>
+  <code><img title = "Java" height = "20" src = "Images/Languages/Java/Image.svg"></code>
+  <code><img title = "Python" height = "20" src = "Images/Languages/Python/Image.svg"></code>
+  <code><img title = "Ruby" height = "20" src = "Images/Languages/Ruby/Image.svg"></code>
 </p>
 <p align = "center">
   <code> <img title = "Fusion" height = "20" src = "Images/Technologies/Fusion/Image.svg"> </code>
