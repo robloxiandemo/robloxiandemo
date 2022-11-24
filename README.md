@@ -61,15 +61,12 @@
 <br>
 <p align = left>
   <div align = left>
-    <a href = "https://github.com/denvercoder1/github-readme-streak-stats" title = "View Source"> <img align = "left" width = 400 src =  "https://github-readme-streak-stats.herokuapp.com/?user=RobloxianDemo&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" alt = "RobloxianDemo" />
-    </a>
-    <a href = "https://github.com/anuraghazra/github-readme-stats" title = "View Source"> <img align = "left" width = 400 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" />
-    </a>
+    <a href = "https://github.com/denvercoder1/github-readme-streak-stats" title = "View Source"> <img align = "left" width = 350 src =  "https://github-readme-streak-stats.herokuapp.com/?user=RobloxianDemo&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" alt = "RobloxianDemo" /> </a>
+    <a href = "https://github.com/anuraghazra/github-readme-stats" title = "View Source"> <img align = "left" width = 350 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" /> </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align = right>
-    <a href = "https://github.com/anuraghazra/github-readme-stats"> <img width = 350 align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+    <a href = "https://github.com/anuraghazra/github-readme-stats"> <img width = 350 align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> </a>
   </div>
   <br>
   <img src = "https://activity-graph.herokuapp.com/graph?username=RobloxianDemo&theme=react-dark&bg_color=20232a&hide_border=true" width = "100%"/>
@@ -80,8 +77,8 @@
 <h2 align = "center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width = "100%" align = "center">
-  <a align = "left" href = "https://github.com/RobloxianDemo/RobloxianDemo" title = "Profile"> <img align = "left" height = "150" src = "https://github-readme-stats.vercel.app/api/pin/?username=RobloxianDemo&repo=RobloxianDemo&theme=react&border_color=61dafb&border_radius=5"> </a>
-  <a align = "right" href = "https://github.com/RobloxianDemo/RobloxianDemo" title = "Roblox Modules"> <img align = "right" height = "150" src = "https://github-readme-stats.vercel.app/api/pin/?username=RobloxianDemo&repo=Roblox-Modules&theme=react&border_color=61dafb&border_radius=5"> </a>
+  <a align = "left" href = "https://github.com/RobloxianDemo/RobloxianDemo" title = "Profile"> <img align = "left" height = "125" src = "https://github-readme-stats.vercel.app/api/pin/?username=RobloxianDemo&repo=RobloxianDemo&theme=react&border_color=61dafb&border_radius=5"> </a>
+  <a align = "right" href = "https://github.com/RobloxianDemo/RobloxianDemo" title = "Roblox Modules"> <img align = "right" height = "125" src = "https://github-readme-stats.vercel.app/api/pin/?username=RobloxianDemo&repo=Roblox-Modules&theme=react&border_color=61dafb&border_radius=5"> </a>
 </div>
 <br><br><br><br><br><br>
 <h4 align = "center">
