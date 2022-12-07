@@ -52,7 +52,7 @@
     <a href = "https://github.com/anuraghazra/github-readme-stats"> <img width = 325 align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RobloxianDemo&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> </a>
   </div>
   <br>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=RobloxianDemo&theme=react-dark&bg_color=20232a&hide_border=true" width = "100%"/>
+  <img src = "https://metrics.lecoq.io/RobloxianDemo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=US%2FNewYork" width = "100%"/>
 </p>
 
 <hr>
@@ -71,7 +71,5 @@
 <!--
 
 ![Credits](https://github.com/iampavangandhi)
-
-![Metrics](https://metrics.lecoq.io/RobloxianDemo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=US%2FNewYork)
 
 -->
