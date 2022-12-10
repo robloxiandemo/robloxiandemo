@@ -45,7 +45,7 @@
 <p align = left>
   <div align = left>
     <a href = "https://github.com/denvercoder1/github-readme-streak-stats" title = "View Source"> <img align = "left" width = 390 src =  "https://github-readme-streak-stats.herokuapp.com/?user=RobloxianDemo&background=20232a&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" alt = "RobloxianDemo" /> </a>
-    <a href = "https://github.com/anuraghazra/github-readme-stats" title = "View Source"> <img align = "left" width = 390 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&count_private=true&bg_color=20232a&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" /> </a>
+    <a href = "https://github.com/anuraghazra/github-readme-stats" title = "View Source"> <img align = "right" width = 390 src = "https://github-readme-stats.vercel.app/api?username=RobloxianDemo&show_icons=true&count_private=true&bg_color=20232a&theme=dark&hide_border=true&stroke=FFFFFF&dates=0082FF&currStreakLabel=21A4FF&ring=166EAB&fire=00B4FF" /> </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align = center>
