@@ -68,6 +68,15 @@
   <a href = "https://github.com/RobloxianDemo?tab=repositories" title = "Reveal Repositories"> 🔎 Reveal More 🔍</a>
 </h4>
 
+---
+
+<details>
+  <summary>:zap: My Recent GitHub Activity!</summary>
+
+<!--START_SECTION:activity-->
+
+</details>
+
 <!--
 
 ![Credits](https://github.com/iampavangandhi)
