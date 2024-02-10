@@ -1,4 +1,4 @@
-<img align = "right" src = "https://komarev.com/ghpvc/?username=robloxiandemo" alt = "robloxiandemo">
+<img align = "center" src = "https://komarev.com/ghpvc/?username=robloxiandemo" alt = "robloxiandemo">
 
 <p align = "center">
   <a href = "https://github.com/robloxiandemo?tab=followers">
