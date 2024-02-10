@@ -23,7 +23,7 @@
 <p align = "center">
   Hey, I'm Demo! An independent contractor and software engineer based in NYC!
   <br>
-  I also happened to facilitate <a href = "https://github.com/Facilitative" title = "GitHub Organization"> Facilitative! </a>
+  I also happene to facilitate <a href = "https://github.com/Facilitative" title = "GitHub Organization"> Facilitative! </a>
   <br>
   I'm an avid programmer and independent contractor on the <a href = "https://www.roblox.com" title = "Roblox Homepage"> Roblox </a> gaming platform!
   <br>
