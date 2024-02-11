@@ -2,8 +2,8 @@ name: Routine README.md Updater
 
 on:
   schedule:
-    # Every 12 hours!
-    - cron: "0 */12 * * *"
+    # Every 6 hours!
+    - cron: "0 */6 * * *"
 
 jobs:
   Updater:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout the Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.1.1
         with:
           fetch-depth: 0
 
@@ -28,6 +28,6 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
-          git commit -m "Update `README.md`"
+          git commit -m "Update README.md"
           git push
           fi
