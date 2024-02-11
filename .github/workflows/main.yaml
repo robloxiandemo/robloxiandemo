@@ -2,8 +2,8 @@ name: Routine README.md Updater
 
 on:
   schedule:
-    # Every 6 hours!
-    - cron: "0 */6 * * *"
+    # Every 12 hours!
+    - cron: "0 */12 * * *"
 
 jobs:
   Updater:
