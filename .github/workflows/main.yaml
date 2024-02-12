@@ -4,6 +4,9 @@ on:
   schedule:
     # Every 12 hours!
     - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
 
 jobs:
   Updater:
@@ -12,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout the Repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
