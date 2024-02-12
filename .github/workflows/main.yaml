@@ -15,14 +15,14 @@ jobs:
 
     steps:
       - name: Checkout the Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.1.1
         with:
           fetch-depth: 0
 
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.USER_TOKEN }}
           includeForks: true
 
       - name: Update README.md
