@@ -35,9 +35,9 @@
 
 📭 Feel free to connect with me through `@robloxiandemo` for all things related to technology or to greet! Let's work towards a more technologically advanced future together!
 
-📆 I joined GitHub **{{ ACCOUNT_AGE }}** years ago!
+📆 I joined GitHub **3** years ago!
 
-♻️ Since then I have pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+♻️ Since then I have pushed **193**+ commits, opened **7**+ issues, submitted **118**+ pull requests, created **0**+ gists, and contributed to **21**+ public repositories.
 
 ### 👨‍🎓 Personalized Information
 
