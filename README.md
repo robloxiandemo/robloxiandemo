@@ -37,7 +37,7 @@
 
 📆 I joined GitHub **3** years ago!
 
-♻️ Since then I have pushed **193**+ commits, opened **7**+ issues, submitted **118**+ pull requests, created **0**+ gists, and contributed to **21**+ public repositories.
+♻️ Since then I have pushed **195**+ commits, opened **7**+ issues, submitted **119**+ pull requests, created **0**+ gists, and contributed to **21**+ public repositories.
 
 ### 👨‍🎓 Personalized Information
 
@@ -147,8 +147,8 @@
 
   <br />
   <div align = center>
-    <a align = "left" href = "https://github.com/robloxiandemo/robloxiandemo" title = "Profile" > <img align = "left" height = "125" src = "https://github-readme-stats.vercel.app/api/pin/?username=robloxiandemo&repo=robloxiandemo&theme=react&border_color=61dafb&border_radius=5" > </a>
-    <a align = "right" href = "https://github.com/robloxiandemo/Packages" title = "Packages" > <img align = "right" height = "125" src = "https://github-readme-stats.vercel.app/api/pin/?username=robloxiandemo&repo=Packages&theme=react&border_color=61dafb&border_radius=5" > </a>
+    <a align = "left" href = "https://github.com/robloxiandemo/robloxiandemo" title = "Profile" > <img align = "left" height = "125" src = "https://github-readme-stats.robloxiandemo.vercel.app/api/pin/?username=robloxiandemo&repo=robloxiandemo&theme=react&border_color=61dafb&border_radius=5" > </a>
+    <a align = "right" href = "https://github.com/robloxiandemo/Packages" title = "Packages" > <img align = "right" height = "125" src = "https://github-readme-stats.robloxiandemo.vercel.app/api/pin/?username=robloxiandemo&repo=Packages&theme=react&border_color=61dafb&border_radius=5" > </a>
   </div>
   <br><br><br><br><br><br>
   <h4 align = "center" >
