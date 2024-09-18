@@ -37,7 +37,7 @@
 
 📆 I joined GitHub **3** years ago!
 
-♻️ Since then I have pushed **176**+ commits, opened **7**+ issues, submitted **113**+ pull requests, created **0**+ gists, and contributed to **21**+ public repositories.
+♻️ Since then I have pushed **176**+ commits, opened **7**+ issues, submitted **113**+ pull requests, created **0**+ gists, and contributed to **20**+ public repositories.
 
 ### 👨‍🎓 Personalized Information
 
